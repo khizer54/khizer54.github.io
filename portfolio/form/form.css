@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1E403C;
+}
+div {
+    width: 30rem;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10rem;
+}
+h1 {
+    color: #34BFBF;
+}
+p{
+    color: #34BFBF;
+}
+label {
+    display: block;
+}
+fieldset {
+    border: none;
+}

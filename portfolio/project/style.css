@@ -1,0 +1,46 @@
+*{
+    background-color: dimgray;
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+li {
+    background-color: black;
+}
+.nav {
+    text-align: right;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+}
+a {
+    color: white;
+    text-decoration: none;
+    background-color: black;
+}
+.nav li {
+    display: inline-block;
+    font-size: 30px;
+    margin: 10px;
+    padding: 10px;
+}
+h2 {
+    text-align: center;
+    margin-top: 15rem;
+    margin-bottom: 0 atuo;
+}
+.cat {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.card {
+    margin: 0 2rem 0 2rem;
+    border: 2px solid black;
+    padding: 5%;
+}
+.dog {
+    text-align: right;
+    padding: 2rem 20rem;
+}
